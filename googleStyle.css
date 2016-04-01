@@ -1,0 +1,121 @@
+.Body {
+	width: 100%;	
+}
+
+#header {
+	width: 100%;
+	float:right;
+}
+
+#header p {
+	float: right;
+	padding-left: 10px;
+}
+
+#header table {
+	float: right;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+#header table td {
+	height: 5px;
+	width: 5px;
+	background-color: gray;	
+}
+
+#header div {
+	float: right;
+}
+
+#header #signInButton {
+	height: 30px;
+	width: 50px;
+	border-color: #6495ED;
+	background-color: #BCD2EE;
+	border-width: 3px;
+	border-radius: 5px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+#header #signInButton a {
+	text-align: center;
+}
+
+#googleLogo{
+	width:25%;
+	margin:auto;
+}
+
+#searchBar {
+	height:50px;
+	width:25%;
+	margin:auto;
+}
+
+#searchInput {
+	width:300px;
+	margin-top: 25px;
+	margin-left: 38%;
+	margin-bottom: 25px;
+}
+
+#searchButtons {
+	height: 30px;
+	width: 29%;
+	margin: auto;
+}
+
+#googleSearch {
+	float:left;
+	height: 30px;
+	width: 120px;
+	background-color: #BCD2EE;
+	margin:auto;
+	margin-left: 5px;
+}
+
+#imFeelingLucky {
+	float: left;
+	height: 30px;
+	width: 130px;
+	border-color: #6495ED;
+	background-color: #BCD2EE;
+	margin:auto;
+	margin-left: 5px;
+}
+
+#spacing {
+	height:300px;	
+}
+#footer {
+	height: 50px;
+	width: 100%;
+	float: none;
+	position: auto;
+	background-color: #DDDDDD;
+}
+
+#footerLeft {
+	float:left;
+}
+
+#footerLeft p {
+	float:left;	
+	padding-right: 10px;
+}
+
+#footerRight {
+	float:right;	
+}
+
+#footerRight p {
+	float:right;	
+	padding-left: 10px;
+}
